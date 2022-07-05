@@ -1,0 +1,8 @@
+Criando repositório remoto
+
+Git config --list  - Verificar configurações de usuário git hub
+git remote add origin https://github.com/mauriciosou/livro-receitas.git (adiciona o caminho do meu repositório remoto)
+git remote -v (lista de repositórios remoto)
+git push origin master – empurra o conteúdo da maquina para o repositório remoto
+git pull origin master - 
+git clone + url do git - copia o repositório para a maquina

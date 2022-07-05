@@ -1,0 +1,8 @@
+Comandos Linux
+- cd > possibilita a navegação entre as pastas
+- ls > lista os diretórios em que estamos situados
+- mkdir > criação de pasta
+- rm / rf > 
+- clear > limpar a tela crtl+L
+-sudo su – permissão  root
+- echo > usado para criar arquivos ex: echo hello . hello.txt

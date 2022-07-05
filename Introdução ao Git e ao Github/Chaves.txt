@@ -1,0 +1,14 @@
+Chave SSH – Conexão segura e encriptada 
+Gerar chave SSH no GIT
+ssh-keygen -t ed25519 -c mauricios@live.com.pt
+
+cd – para ir até a pasta 
+comando: cd/users/mauricio.souza/.ssh
+ls – para listar o conteúdo da pasta
+cat-expor o conteúdo 
+
+$ eval $(ssh-agent -s) – Comando para startar um projeto
+Ssa-add + número da chave privada id_ed25519 -  Passar a chave privada para o agente
+
+Git clone + caminho ssh – clona o repositório do git
+

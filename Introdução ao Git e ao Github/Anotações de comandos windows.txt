@@ -1,0 +1,9 @@
+Comandos Windows
+- cd > possibilita a navegação entre as pastas 
+- dir > lista os diretórios em que estamos situados
+- mkdir > criação de pasta
+- rmdir
+- del / rmdir > 
+- cls > limpar a tela 
+- echo > usado para criar arquivos ex: echo hello . hello.txt
+- del > deletar arquivos da pasta

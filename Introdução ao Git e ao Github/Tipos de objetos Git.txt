@@ -1,0 +1,4 @@
+Tipos de objetos do Git
+Blobs  
+Trees
+Commits

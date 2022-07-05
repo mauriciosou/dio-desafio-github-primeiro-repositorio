@@ -1,0 +1,16 @@
+Criando Commit
+
+Git init – iniciar repositório
+Git add - adicionar arquivos
+Git commit – 
+-a – mostra arquivos ocultos
+
+
+Primeira vez usando o git – configurar 
+
+git config --global user.email mauricios@live.com.pt
+git config --global user.name Mauricio
+
+criar arquivos e passar o commit
+git add * Atualiza tudo que foi modificado
+git commit -m “commit inicial”
